@@ -1,7 +1,7 @@
 url: https://champagnefestival.tjor.im/api/editions/active
-status: up
-code: 200
-responseTime: 103
-lastUpdated: 2026-04-11T23:11:28.012Z
+status: down
+code: 404
+responseTime: 117
+lastUpdated: 2026-04-12T15:01:04.458Z
 startTime: 2026-03-30T20:54:04.536Z
 generator: Upptime <https://github.com/upptime/upptime>
