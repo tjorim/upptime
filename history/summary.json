@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.04%",
     "time": 721,
-    "timeDay": 727,
-    "timeWeek": 668,
-    "timeMonth": 742,
+    "timeDay": 704,
+    "timeWeek": 667,
+    "timeMonth": 739,
     "timeYear": 721,
     "dailyMinutesDown": {
       "2026-04-12": 1268,
@@ -36,12 +36,12 @@
   {
     "name": "Champagne Festival API",
     "url": "$CHAMPAGNEFESTIVAL_API_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/champagnefestival.tjor.im.ico",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "champagne-festival-api",
-    "status": "up",
+    "status": "down",
     "uptime": "91.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.04%",
     "time": 407,
@@ -64,19 +64,20 @@
       "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 156,
-      "2026-05-04": 29
+      "2026-05-04": 29,
+      "2026-08-23": 1
     }
   },
   {
     "name": "Champagne Festival end-to-end",
     "url": "$CHAMPAGNEFESTIVAL_E2E_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/champagnefestival.tjor.im.ico",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "champagne-festival-end-to-end",
-    "status": "up",
+    "status": "down",
     "uptime": "75.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "34.67%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "34.68%",
     "uptimeYear": "75.11%",
     "time": 335,
     "timeDay": 306,
@@ -120,7 +121,8 @@
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
-      "2026-07-07": 1432
+      "2026-07-07": 1432,
+      "2026-08-23": 1
     }
   },
   {
@@ -135,9 +137,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.21%",
     "time": 661,
-    "timeDay": 660,
-    "timeWeek": 736,
-    "timeMonth": 708,
+    "timeDay": 668,
+    "timeWeek": 730,
+    "timeMonth": 707,
     "timeYear": 661,
     "dailyMinutesDown": {
       "2026-04-12": 901,
@@ -160,12 +162,12 @@
   {
     "name": "Worktime API",
     "url": "$WORKTIME_API_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/worktime.tjor.im.ico",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "worktime-api",
-    "status": "up",
+    "status": "down",
     "uptime": "91.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.21%",
     "time": 403,
@@ -188,7 +190,8 @@
       "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 156,
-      "2026-05-04": 29
+      "2026-05-04": 29,
+      "2026-08-23": 1
     }
   },
   {
@@ -202,30 +205,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 826,
-    "timeDay": 826,
-    "timeWeek": 826,
-    "timeMonth": 826,
-    "timeYear": 826,
+    "time": 757,
+    "timeDay": 757,
+    "timeWeek": 757,
+    "timeMonth": 757,
+    "timeYear": 757,
     "dailyMinutesDown": {}
   },
   {
     "name": "Daynest API",
     "url": "$DAYNEST_API_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/daynest.tjor.im.ico",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "daynest-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "92.07%",
+    "uptimeDay": "92.07%",
+    "uptimeWeek": "92.07%",
+    "uptimeMonth": "92.07%",
+    "uptimeYear": "92.07%",
     "time": 680,
     "timeDay": 680,
     "timeWeek": 680,
     "timeMonth": 680,
     "timeYear": 680,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-23": 0
+    }
   },
   {
     "name": "Bordertax",
@@ -238,29 +243,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 829,
-    "timeDay": 829,
-    "timeWeek": 829,
-    "timeMonth": 829,
-    "timeYear": 829,
+    "time": 736,
+    "timeDay": 736,
+    "timeWeek": 736,
+    "timeMonth": 736,
+    "timeYear": 736,
     "dailyMinutesDown": {}
   },
   {
     "name": "Authentication",
     "url": "$AUTHENTICATION_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/auth.tjor.im.ico",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authentication",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.59%",
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "96.59%",
+    "uptimeMonth": "96.59%",
+    "uptimeYear": "96.59%",
     "time": 677,
     "timeDay": 677,
     "timeWeek": 677,
     "timeMonth": 677,
     "timeYear": 677,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-23": 0
+    }
   }
 ]
