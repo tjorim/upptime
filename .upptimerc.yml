@@ -12,7 +12,13 @@ sites:
     url: https://worktime.tjor.im
   - name: Worktime API
     url: $WORKTIME_API_URL
-  - name: SuperTokens
+  - name: Daynest
+    url: https://daynest.tjor.im
+  - name: Daynest API
+    url: $DAYNEST_API_URL
+  - name: Bordertax
+    url: https://bordertax.tjor.im
+  - name: Authentication
     url: $AUTHENTICATION_URL
 
 status-website:
