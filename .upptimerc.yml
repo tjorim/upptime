@@ -1,6 +1,13 @@
 owner: tjorim
 repo: upptime
 
+secrets:
+  - CHAMPAGNEFESTIVAL_API_URL
+  - CHAMPAGNEFESTIVAL_E2E_URL
+  - WORKTIME_API_URL
+  - DAYNEST_API_URL
+  - AUTHENTICATION_URL
+
 sites:
   - name: Champagne Festival
     url: https://champagnefestival.tjor.im
