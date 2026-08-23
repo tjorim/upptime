@@ -1,7 +1,7 @@
 url: $DAYNEST_API_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-08-23T00:16:11.071Z
+status: up
+code: 200
+responseTime: 607
+lastUpdated: 2026-08-23T00:20:30.164Z
 startTime: 2026-08-23T00:12:07.480Z
 generator: Upptime <https://github.com/upptime/upptime>
